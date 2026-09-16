@@ -32,3 +32,8 @@ let isTrue = true;
 console.log(isTrue);
 console.log(typeof(isTrue));
 
+
+// bight
+let num2 = 10234567898765432345n;
+console.log(num2);
+console.log(typeof(num2));
