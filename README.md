@@ -42,4 +42,32 @@ there are two types of datatypes-
 6. bigint
 7. NaN (not a number)
 
-non primitive
+> non primitive :    non primitive datatypes are userdefine datatypes which is mutable.
+
+1. array
+2. function
+3. object
+
+
+variable :
+there are three types of variables in js. 
+1. var.
+2. let.
+3. const.
+
+1. scope based 
+var is functional scope.
+let and const is block scope.
+let and const is block scope.
+
+2. declaration 
+var and let is declarable
+const is not accept.
+
+3. redecleration
+redecleration is possible only on var
+let and const  is not redeclarable.
+
+4. reinitialization
+reinitialization is possible on let and var ;
+reinitialization is not possible on const;
