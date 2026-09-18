@@ -1,73 +1,68 @@
-javascript was developed by brendan eich in 1995.
+Java sript is a high level proghramming language . Which is used to build functional and dynamic wbsite
 
-javascript is a high level language. which is used to build 
-functional and dynamic website.
+ Three types od java sript
+  1. inline
+  2. intrnal
+  3. externakl
 
+ CD = change dirctory for hanging folder path for browser running oumnt 
+  Node JS runs on browser side both 
 
-three types of js:
-1. inline
-2. internal
-3. external
+  Java script is 
+  1. intrprt language 
+  2. Case sensitive  ( Name, name)
+  3. Java sript is single threded
+  4. synchronous ( Line by line extnded)
+  work on V8
 
-cd = change directory for changing folder path for browser
-running document.  
+  #DAY2#
 
-node js runs on browser and server side both.
+DATA TYPE --where we store which type of data is known as Datatype
+There are two type of datatype
+1. Primitive Datatype
+2. Non-primitive Datatype
 
-javascript is:
+PRIMITIVE-- data type are predefine datatypes which is immutable
+ (1) String
+ (2) Number
+ (3) Boolean
+ (4) Null
+ (5) Begin
+ (6) Underfine
 
-interpreted language(runs on multiple ide{integrated development environment}).
-synchronous(line-by-line exeucte)
-case sensitive (Name, name)
-javascript is single threaded.
+#DAY3#
 
+TYPE CONVERSION --
+type conversion is when one data type convert to another data type is when one data type convert to another data type is known as Type converaition.
 
+There are two type of type conversion
+  1. Implicite
+  2. Explicite
 
-datatypes :- we store 
+  Implicit- it convert automactically one data type to another datatype is Implicite
 
+  Expilicit- when we are converting one datatype to another(manually/forcefully) is Expilicte
 
-
-there are two types of datatypes- 
-
-1. primitive
-2. non primitive
-
--> primitive
-
-1. string
-2. number 
-3. boolean
-4. null
-5. underline
-6. bigint
-7. NaN (not a number)
-
-> non primitive :    non primitive datatypes are userdefine datatypes which is mutable.
-
-1. array
-2. function
-3. object
+Truthhy and falsy value 
 
 
-variable :
-there are three types of variables in js. 
-1. var.
-2. let.
-3. const.
 
-1. scope based 
-var is functional scope.
-let and const is block scope.
-let and const is block scope.
+OPERATORS--
+1. Arithimitic
+2. Relational
+3. Logical
+4. Conditional (Ternary operator) 
+   (condition) ? "true" : " false" ;
 
-2. declaration 
-var and let is declarable
-const is not accept.
+5. Assingnment 
 
-3. redecleration
-redecleration is possible only on var
-let and const  is not redeclarable.
+== and ===
+== check only value
+=== check datatype and value both
 
-4. reinitialization
-reinitialization is possible on let and var ;
-reinitialization is not possible on const;
+Temperal litteral 
+ if else
+ if elseif
+ if elseif else
+
+ Jvascript is singgle thread
