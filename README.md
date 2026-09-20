@@ -66,3 +66,4 @@ Temperal litteral
  if elseif else
 
  Jvascript is singgle thread
+ 
