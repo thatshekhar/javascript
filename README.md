@@ -110,3 +110,32 @@ for(let = value in num){
 
 for of :- it will return 
  
+#day06
+
+function - fuction is a block of code or peice of code which is perform the specific task instead of writting the same code multiple time we write it once and use through it .
+
+it ids resuable :
+
+there are many type of functions
+1. function decleration 
+2. function expression
+3.arrow function(Es6) 
+4.IIFE (imidate invoke function expression)
+5.call back function 
+6.nested function
+7.HOF(high order function )
+
+1.function decleration :- it write with its function name .
+
+2. function expression :- it holds the function into the variable . 
+
+3. arrow function (Es6) :- it concise or reduce the code it is also a ES6 function .
+
+4. iife :- it is not resuable when the developer use only one time then this function use .
+
+5. Higher order function:- higher order function is a function which take another function as parameter.
+
+6. call back :- call back function is a function which send as an argument to another function.
+
+7. nested function :- a function have another function is known as nested function.
+
