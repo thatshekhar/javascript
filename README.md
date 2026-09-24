@@ -139,4 +139,19 @@ there are many type of functions
 
 7. nested function :- a function have another function is known as nested function.
 
-  
+  <!-hoisting -  -->
+  hoisting :- when we call variable or function
+hoisting is possible on 
+var :- it gives undefined 
+and function declartion
+
+otherwise its gives TDZ (temperoral dead zone) in the let, const and function expression
+
+TDZ:- it is a time b/w initialization and cration is known as TDZ .
+
+interview que:-
+1. function and its types
+2. hoisting in js 
+3. which is TDZ
+4. what is higher order function and callback
+5. what is arrow function and IIFE function 
