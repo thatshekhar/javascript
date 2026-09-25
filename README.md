@@ -155,3 +155,24 @@ interview que:-
 3. which is TDZ
 4. what is higher order function and callback
 5. what is arrow function and IIFE function 
+
+
+#day07
+array:- array is a huge nenory block of which is store diff datatype in javascript.
+
+it is heterogenous nature in javascript
+
+there are two way to create an array
+1. array literal
+2. with the use of keyword
+
+
+method of array
+1. push :- it add the element at the last.
+2. pop :- it delete the element at the last.
+3. shift :- it delete the element at the front.
+4. unshift :- it add the element in the front.
+5. includes :-it checks the element is the present or not. 
+6. indexof :- it will give the index of the array.
+7. slice :- it will give the piece the arrays.
+8. splice:- it will modify the element of the array.
