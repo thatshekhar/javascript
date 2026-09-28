@@ -176,3 +176,25 @@ method of array
 6. indexof :- it will give the index of the array.
 7. slice :- it will give the piece the arrays.
 8. splice:- it will modify the element of the array.
+
+#day09
+ string:- string is the collection of the characterstics. it is a primmtive data type.
+ there are the there are the three ways to define a string
+ 1. double inverted 
+ 2. single inverted
+ 3. backticks
+
+
+Method of string 
+toUpperCase()
+toLowerCase()
+trim()
+split()
+join()
+substring()
+charAt()
+charCodeAt()
+startsWith()
+endsWith()
+replace()
+replaceAll()
